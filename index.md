@@ -20,11 +20,11 @@ I used Python functions to clean and organize the data, and seaborn to create vi
 
 ## Visualizations
 
-![Graph1](Graph1.png)
+<img src="static/imgs/Graph1.png" alt="Graph 1" width="500"/>
 
-![Graph2](Graph2.png)
+<img src="static/imgs/Graph2.png" alt="Graph 2" width="500"/>
 
-![Graph3](Graph3.png)
+<img src="static/imgs/Graph3.png" alt="Graph 3" width="500"/>
 
 ## Conclusion
 The results suggest that pre-lecture videos could improve student learning, especially for students who find the course more difficult or have lower understanding. 
