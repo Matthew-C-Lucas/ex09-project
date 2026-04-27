@@ -16,11 +16,11 @@ I used Python functions to clean and organize the data, and seaborn to create vi
 
 ## Visualizations
 
-![Graph1](Graph1.png)
+![Graph 1: Support for Pre-Lecture Videos]({{ site.baseurl }}/Graph1.png)
 
-![Graph2](Graph2.png)
+![Graph 2: Course Difficulty vs. Pre-Lecture Video Support]({{ site.baseurl }}/Graph2.png)
 
-![Graph3](Graph3.png)
+![Graph 3: Understanding vs. Pre-Lecture Video Support]({{ site.baseurl }}/Graph3.png)
 
 ## Conclusion
 The results suggest that pre-lecture videos could improve student learning, especially for students who find the course more difficult or have lower understanding. 
