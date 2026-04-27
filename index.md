@@ -1,5 +1,3 @@
-# EX09 Analysis: Pre-Lecture Videos
-
 ## Summary
 This analysis explores whether students who find COMP110 more difficult are more likely to support the use of pre-lecture videos.
 
@@ -18,11 +16,11 @@ I used Python functions to clean and organize the data, and seaborn to create vi
 
 ## Visualizations
 
-![Graph 1](graph1.png)
+![Graph1](Graph1.png)
 
-![Graph 2](graph2.png)
+![Graph2](Graph2.png)
 
-![Graph 3](graph3.png)
+![Graph3](Graph3.png)
 
 ## Conclusion
 The results suggest that pre-lecture videos could improve student learning, especially for students who find the course more difficult or have lower understanding. 
@@ -30,4 +28,3 @@ The results suggest that pre-lecture videos could improve student learning, espe
 However, creating these videos would require additional time and effort from instructors, and not all students may use them consistently. 
 
 In the future, more data could be collected on how students use pre-lecture videos and whether they lead to improved performance.
-
