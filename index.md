@@ -1,4 +1,3 @@
-## Summary
 This analysis explores whether students who find COMP110 more difficult are more likely to support the use of pre-lecture videos.
 
 ## Data & Method
